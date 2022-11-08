@@ -1,0 +1,25 @@
+@import '../../scss/color';
+
+.header {
+   height: 80px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-bottom: 30px;
+}
+
+.wrapper {
+   display: flex;
+   flex-grow: 1;
+}
+
+.storeTitle {
+   color: $colorWhite;
+   text-decoration: none;
+   font-size: 24px;
+   font-weight: 400;
+}
+
+.cartButton {
+   justify-content: flex-end;
+}

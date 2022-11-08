@@ -1,0 +1,19 @@
+@import '../../scss/color';
+
+.cartBlock {
+   display: flex;
+   align-items: center;
+   position: relative;
+}
+
+.totalPrice {
+   margin-left: 15px;
+   font-size: 18px;
+   font-weight: 400;
+}
+
+.icon {
+   cursor: pointer;
+   position: relative;
+   font-size: 25px;
+}

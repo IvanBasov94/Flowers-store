@@ -1,0 +1,28 @@
+.orderItem {
+   display: flex;
+   margin-bottom: 30px;
+}
+
+.cover {
+   width: 200px;
+   margin-top: 30px;
+}
+
+.title {
+   font-size: 24px;
+   font-weight: 400;
+   margin-top: 25px;
+   margin-left: 20px;
+}
+
+.price {
+   font-size: 24px;
+   font-weight: 400;
+   margin-left: auto;
+   margin-top: 25px;
+}
+
+.deleteIcon {
+   margin-left: 5px;
+   cursor: pointer;
+}

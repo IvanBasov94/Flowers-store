@@ -1,0 +1,30 @@
+@import '../../scss/color';
+
+.content {
+   display: flex;
+}
+
+.left {
+   width: 40%;
+   height: 300px;
+}
+
+.right {
+   width: 50%;
+   margin-left: 20px;
+}
+
+.colors {
+   margin-top: 10px;
+}
+
+.buyFlower {
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 20px;
+}
+
+.secondaryText {
+   color: rgb(80, 82, 84);
+   margin-top: 10px;
+}
